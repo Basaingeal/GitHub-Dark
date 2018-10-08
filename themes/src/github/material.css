@@ -98,7 +98,6 @@
   .pl-mdr { color: #F78C6C !important; font-weight: normal !important; } /* meta.diff.range */
   .pl-mdh { color: #89DDFF !important; font-weight: normal !important; } /* meta.diff.header */
   .pl-mdi { color: #89DDFF !important; font-weight: normal !important; } /* meta.diff.index */
-  /* TODO: Fix unstyled classes below */
   .pl-ib { background-color: #F78C6C !important; } /* invalid.broken */
   .pl-id { background-color: #FF5370 !important; color: #eff !important; } /* invalid.deprecated */
   .pl-ii, .pl-ii .pl-cce { background-color: #F78C6C !important; color: #eff !important; } /* invalid.illegal */
